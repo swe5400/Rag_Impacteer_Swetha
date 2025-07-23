@@ -32,6 +32,10 @@ This project is a simple Retrieval-Augmented Generation (RAG) style document ret
 4. **Add documents:**
     Add your `.txt` documents to the `documents` folder.
 
+ 🔗 [Click here to access the deployed Streamlit app](https://ragforimpacteerbyswetha.streamlit.app/)  
+This link takes you directly to the live RAG-based application built using Streamlit.
+
+
 ## Additional Features
 
 *   **Keyword Highlighting:** In the retrieved resume chunks, the keywords from your query are highlighted to make it easier to see why a particular resume was selected.
