@@ -1,4 +1,4 @@
-# Simple RAG-style Document Retriever
+# Simple RAG-Based Document Retriever
 
 This project is a simple Retrieval-Augmented Generation (RAG) style document retriever that can return relevant information from a small collection of predefined documents using vector similarity.
 
