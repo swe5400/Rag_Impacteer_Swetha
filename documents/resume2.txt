@@ -1,0 +1,15 @@
+Jane Smith
+Data Scientist
+
+Summary
+Data scientist with 3 years of experience in building and deploying machine learning models. Proficient in Python, R, and SQL.
+
+Experience
+Data Scientist, XYZ Corp. (2020 - Present)
+- Built and deployed machine learning models for fraud detection and recommendation systems.
+- Performed data analysis and visualization to extract insights from large datasets.
+- Communicated findings to stakeholders and made recommendations for business decisions.
+
+Education
+Master of Science in Data Science, Stanford University (2018 - 2020)
+Bachelor of Science in Statistics, University of Michigan (2014 - 2018)

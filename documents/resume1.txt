@@ -1,0 +1,14 @@
+John Doe
+Software Engineer
+
+Summary
+Highly skilled and motivated software engineer with 5 years of experience in developing and maintaining web applications. Proficient in Python, Java, and JavaScript.
+
+Experience
+Software Engineer, ABC Inc. (2018 - Present)
+- Developed and maintained web applications using Python, Django, and React.
+- Collaborated with cross-functional teams to deliver high-quality software products.
+- Wrote unit and integration tests to ensure code quality.
+
+Education
+Bachelor of Science in Computer Science, University of California, Berkeley (2014 - 2018)
